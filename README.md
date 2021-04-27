@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Marshall Chen</h2>
-<h3 align="center">A passionate and junior full stack developer from Shenzhen, China</h3>
+<h2 >Hi 👋, I'm Marshall Chen</h2>
+<h3 >A passionate and junior full stack developer from Shenzhen, China</h3>
 
 - 🏫 I studied Electrical Engineering in **University of Alberta**
 
